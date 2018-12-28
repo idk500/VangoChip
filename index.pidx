@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
+﻿<?xml version="1.0" encoding="UTF-8" ?> 
 <index schemaVersion="1.1.1" xs:noNamespaceSchemaLocation="PackIndex.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance">
 <vendor>Vango</vendor>
 <url>https://raw.githubusercontent.com/idk500/VangoChip/master/</url>
