@@ -5,7 +5,7 @@
   <vendorID>Generic</vendorID>           <!-- device vendor short name -->
   <name>V85XX</name>
   <description>V85XX ARM Cortex-M0 Device Family Pack</description>
-  <!--CMSIS-pack自动更新或下载的地址 -->
+  <!--CMSIS-pack auto update url -->
   <url>https://raw.githubusercontent.com/idk500/VangoChip/master/V85XX/</url>
   <!--supportContact>support@Vango.com</supportContact-->
   <!-- optional license file -->
