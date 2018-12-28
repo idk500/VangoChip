@@ -2,8 +2,7 @@
 
 <package schemaVersion="1.2"  xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:noNamespaceSchemaLocation="PACK.xsd">
   <vendor>Vango</vendor>
-  <vendorID>Generic</vendorID>
-  <!-- device vendor short name -->
+  <vendorID>Generic</vendorID>              <!-- device vendor short name -->
   <name>V86XX</name>
   <description>V86XX ARM Cortex-M0 Device Family Pack</description>
   <!--CMSIS-packAuto update &Download -->
