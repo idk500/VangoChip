@@ -6,7 +6,7 @@
   <name>V86XX</name>
   <description>V86XX ARM Cortex-M0 Device Family Pack</description>
   <!--CMSIS-pack auto update url -->
-  <url>https://raw.githubusercontent.com/idk500/VangoChip/V86XX/master/</url>
+  <url>https://raw.githubusercontent.com/idk500/VangoChip/master/V86XX</url>
   <!--supportContact>support@Vango.com</supportContact-->
   <!-- optional license file -->
   <!-- 
