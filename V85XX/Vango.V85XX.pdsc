@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<package schemaVersion="1.2"  xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:noNamespaceSchemaLocation="PACK.xsd">
+<package schemaVersion="1.2.1"  xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:noNamespaceSchemaLocation="PACK.xsd">
   <vendor>Vango</vendor>
   <vendorID>Generic</vendorID>           <!-- device vendor short name -->
   <name>V85XX</name>
@@ -15,9 +15,9 @@
   -->
   
   <releases>
-    <release version="1.0.3" date="2018-12-25">
+    <release version="1.0.2" date="2019-1-4">
       <!--Initial Version-->
-      First release version of V85XX device. file included and Device selectable.
+      back to stable version.
     </release>
   </releases>
 
