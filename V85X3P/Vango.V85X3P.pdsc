@@ -6,7 +6,7 @@
 	<name>V85X3P</name>
 	<description>V85X3P ARM Cortex-M0 Device Family Pack</description>
 	<!--CMSIS-pack自动更新或下载的地址 -->
-	<!-- <url>https://github.com/idk500/V85X3P/blob/master</url> -->
+	<url>https://raw.githubusercontent.com/idk500/VangoChip/master/V85X3P/</url>
 	<!--supportContact>support@Vango.com</supportContact-->
 	<!-- optional license file -->
 	<!-- 
